@@ -15,7 +15,6 @@ const getVideos = async (videos, listDetails) =>{
 }
 
 
-
 // channel details
 const channelDetails = async () => {
     const channel_id = 'UCZU5ofyBsEmVuKYrijLFxrg'
